@@ -1,4 +1,4 @@
-## Unit 5 | Assignment - The Power of Plotss
+## Unit 5 | Assignment - The Power of Plots
 
 ## Background
 ## Three observable trends based on the data 
